@@ -8,13 +8,15 @@ The contact book program is a simple, menu-driven application that helps users m
 # Algorithm
 1. Start the program
 2. Choose any option like
-   o	add a new contact or
-   o	view all contacts or
+   o	add a new contact
+   o	view all contacts
    o	search a contact
    o	delete a contact
-3. If adding a contact (enter name, phone no, email id)
-4. Save the contact to the list.
-5. Repeat until you choose to exit the program.
+   o  edit a contact
+4. If adding a contact (enter name, phone no., email id)
+5. Save the contact to the list.
+6. Repeat until you choose to exit the program.
+7. Stop the program
 
 
 # Features
@@ -25,11 +27,12 @@ The contact book program is a simple, menu-driven application that helps users m
 5. Interactive menu-driven interface for easy navigation.
 6. Continuous running until the user chooses to exit.
 7. Basic in-memory storage without requiring external files or databases.
+8. Automatically validating phone numbers and email formats.
 
 # Technology
 1. Git and GitHub (Version Control)
-2. VSCode (Code editor)
-3. Python (Programming language used )
+2. VSCode (Code Editor)
+3. Python (Programming Language )
 
 # Made By 
 Prince Raj
